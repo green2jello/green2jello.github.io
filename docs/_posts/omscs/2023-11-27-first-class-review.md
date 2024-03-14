@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "A Start... And a Review of KBAI"
 date: 2023-11-27
 categories: omscs

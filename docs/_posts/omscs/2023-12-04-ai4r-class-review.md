@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "AI for Robotics Review - Using Math for the First Time in a While!"
 date: 2023-12-04
 categories: omscs
