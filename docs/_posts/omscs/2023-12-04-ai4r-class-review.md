@@ -24,5 +24,5 @@ I struggled with this class at first, especially because I just couldn't underst
 -- Steven B.
 
 [omscs-info]: https://omscs.gatech.edu/program-information
-[kbai]: {% post_url docs/_posts/omscs/2023-11-27-first-class-review %}
+[kbai]: {% post_url omscs/2023-11-27-first-class-review %}
 [ai4r]: https://omscs.gatech.edu/cs-7638-robotics-ai-techniques

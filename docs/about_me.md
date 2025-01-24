@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: default
 title: About Me
-permalink: /about-me/
+permalink: /about/
 ---
 
-Hi! This is a little bit about me.
+# About Me
 
-I'm Steven.
+Hi! I'm a software engineer that specializes in DevOps. I have this blog to keep a record of events outside of work and to keep a record of things that I find interesting.
 
-I currently work at a company as a DevOps / Cloud Engineer. So some of my posts will be about that. Others will just be me talking ~~screaming~~ into the void.
-
-I guess you can find my LinkedIn [here](https://www.linkedin.com/in/steven-billington/).
-
-Anyways: This is probably more for me than it is for you!
+Feel free to reach out to me via [GitHub](https://github.com/green2jello) or [email](mailto:green2jello@gmail.com)!
