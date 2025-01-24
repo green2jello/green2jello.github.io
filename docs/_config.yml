@@ -16,8 +16,8 @@
 title: [Yet Another Personal Blog]
 email: green2jello@gmail.com
 description: [Just me tooling around with a personal / technical blog.]
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://green2jello.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # leave empty for local development, will be overridden by GitHub Pages
 github_username:  green2jello
 
 # Build settings
