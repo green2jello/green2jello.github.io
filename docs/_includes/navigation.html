@@ -1,8 +1,9 @@
-<![CDATA[<nav class="site-nav">
-  <div class="nav-links">
+<![CDATA[<nav class="site-nav outer">
+  <div class="nav-links inner">
     <a href="{{ site.baseurl }}/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
     <a href="{{ site.baseurl }}/conferences" class="nav-link {% if page.url contains 'conferences' %}active{% endif %}">Conferences</a>
     <a href="{{ site.baseurl }}/omscs" class="nav-link {% if page.url contains 'omscs' %}active{% endif %}">OMSCS</a>
+    <a href="{{ site.baseurl }}/ai" class="nav-link {% if page.url contains 'ai' %}active{% endif %}">AI</a>
     <a href="{{ site.baseurl }}/about" class="nav-link {% if page.url contains 'about' %}active{% endif %}">About</a>
   </div>
 </nav>
@@ -10,31 +11,29 @@
 <style>
 .site-nav {
   background-color: #24292e;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   margin-bottom: 2rem;
 }
 
 .nav-links {
-  max-width: 800px;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0.25rem 0;
   display: flex;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 
 .nav-link {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
-  font-weight: 500;
-  padding: 0.5rem 0;
+  padding: 0.25rem 0;
 }
 
 .nav-link:hover {
-  color: #58a6ff;
+  color: #79b8ff;
 }
 
 .nav-link.active {
-  color: #58a6ff;
-  border-bottom: 2px solid #58a6ff;
+  color: #79b8ff;
+  border-bottom: 2px solid #79b8ff;
 }
 </style>]]>
