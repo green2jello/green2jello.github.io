@@ -4,7 +4,7 @@
 title: Yet Another Personal Blog
 ---
 
-I'm just talking out loud.
+Hi! Take a look at some of the posts below, at the posts by topic in the navigation bar above or check out my [About Me](/about/) page here.
 
 ## Index of Posts
 <ul>
